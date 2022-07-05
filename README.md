@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/marcovanwoudenberg/Microk8s%20Cluster%20with%20Rancher/_apis/build/status/marcovanwoudenberg.azure_pipelines?branchName=main)](https://dev.azure.com/marcovanwoudenberg/Microk8s%20Cluster%20with%20Rancher/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
